@@ -1,0 +1,10 @@
+.canvas{
+    height: 100vh;
+    border-radius: 1rem;
+    width: 100%;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content:space-between;
+}
